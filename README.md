@@ -59,20 +59,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kadirify&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
-</div>
-
----
-
-### 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kadirify&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6AD3F7&line=6AD3F7&point=FFFFFF" width="100%"/>
-</div>
-
 ---
 
 ### 🐍 Contribution Snake
